@@ -164,4 +164,3 @@ if __name__ == '__main__':
     if '.md' not in note_name:
         note_name += '.md'
     note.write(os.path.join(note_path, note_name))
-    input("—————输入任意键结束—————")
