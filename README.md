@@ -11,8 +11,8 @@
     - 方式3：输入本地的pdf文件名（在papers文件夹下），确保文件名是论文标题（可含'-'作为空格），生成笔记的同时能够将pdf文件名修改为论文标题![image](readme_resource/image_4.png)
     - 方式4：（仅生成笔记）输入论文DOI或论文标题![image](readme_resource/image_5.png)
     
-- 视频演示：施工ing
-# To Do:
+- [视频演示](https://www.bilibili.com/video/bv1We4y1f7mz)
+# 更新计划:
 - [x] 给.md文件写入部分字符时，会产生乱码。
 - [x] 实现给定链接自动下载且生成笔记(目前仅支持来自arxiv.org的自动下载)。
 - [ ] 给定DOI自动下载且生成笔记(doi目前仅支持自动生成笔记)。
