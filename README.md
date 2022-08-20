@@ -17,6 +17,6 @@
 - [x] 实现给定链接自动下载且生成笔记(目前仅支持来自arxiv.org的自动下载)。
 - [ ] 给定DOI自动下载且生成笔记(doi目前仅支持自动生成笔记)。
 # 参考资料
-文献引用数图片生成：https://shields.io/
-思路来源：https://www.bilibili.com/video/BV1nA41157y4
-代码所用到的semanticscholar的API：https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper
+- 文献引用数图片生成：https://shields.io/
+- 思路来源：https://www.bilibili.com/video/BV1nA41157y4
+- 代码所用到的semanticscholar的API：https://api.semanticscholar.org/api-docs/graph#tag/Paper-Data/operation/get_graph_get_paper
